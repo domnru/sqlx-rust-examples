@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS team (
+    id VARCHAR(255) NOT NULL,
+    PRIMARY KEY(id)
+);
